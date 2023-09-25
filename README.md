@@ -20,6 +20,9 @@ In the case of variable fonts *fontkit* supports all custom typeface axis like i
 font.getVariation({ wght: 400, opsz: 144, wonk: 1, soft: 0 });
 ```
 
+![Image of a letter converted to path](/examples/font-converted-to-path.png)
+Image of a letter converted to svg path in Figma.
+
 
 
 ## why?
