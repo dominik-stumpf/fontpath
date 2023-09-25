@@ -4,11 +4,11 @@ Small utility that converts fonts to SVG paths dynamically with variable font su
 
 ## usage
 
-There are 3 types of output the code can create in the `/generated` folder;
+There are 3 types of output the code can produce in the `/generated` folder;
 
 1. `/generated/svg/g.svg` - after conversion the result is hardcoded into svg (hard to modify later)
 2. `/generated/json/g.json` - better alternative than svg, but lacks type inference
-3. `/generated/ts/g.ts`/ - **recommended** used for manually assembling the svg
+3. `/generated/ts/g.ts`/ - **recommended**, used for manually assembling the svg
 
 ### examples
 
