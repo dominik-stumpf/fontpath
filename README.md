@@ -1,4 +1,4 @@
-# fontpath
+# 🐱‍🏍 fontpath
 
 Small utility that converts fonts to SVG paths dynamically with variable font support.
 
