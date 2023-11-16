@@ -12,7 +12,7 @@ There are 3 types of output the code can produce in the `/generated` folder;
 
 ### examples
 
-> In this project the all wonderful [Fraunces](https://fonts.google.com/specimen/Fraunces) typeface is being used by default and also in all the examples. I find it a good example because it has a lot of customization options.
+> In this project the [Fraunces](https://fonts.google.com/specimen/Fraunces) typeface is being used by default and also in all the examples.
 
 In the case of variable fonts *fontkit* supports all custom typeface axis like italic (`slnt`), font weights (`wght`), so they can be set freely.
 
