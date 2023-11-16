@@ -31,7 +31,6 @@
     "typescript": "^5.1.6"
   },
   "dependencies": {
-    "@types/fontkit": "^2.0.4",
     "fontkit": "^2.0.2",
     "svg-path-properties": "^1.2.0"
   }

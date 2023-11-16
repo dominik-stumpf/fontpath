@@ -1,5 +1,6 @@
 import path from 'path';
 import fs from 'fs';
+// @ts-ignore no type definitions from library
 import * as fontkit from 'fontkit';
 import { svgPathProperties } from 'svg-path-properties';
 import { PathAttribute, SvgAttributesProps } from './index-types';
